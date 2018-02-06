@@ -1,0 +1,103 @@
+header {
+	font-family: helvetica;
+	font-size:8pt;
+	line-height: 40px;
+	text-align: center;
+
+}
+
+h1 {
+	background-color: #000;
+	max-width: 220px;
+	margin: auto;
+	color: white;
+	padding: 10px 0px 10px 0px;
+	margin-bottom: 70px;
+
+}
+
+h3 {
+	color:#457095;
+	font-size:66px;
+	margin: auto;
+
+}
+
+.container {
+
+}
+
+.underScores {
+		font-family: helvetica;
+		font-size: 50pt;
+		margin: auto;
+		text-align: center;
+		padding-bottom: 20px;
+		color: #dd0087;
+		margin-top: 32px;
+
+}
+
+.rightGuess {
+		font-family: helvetica;
+		font-size: 25pt;
+		margin-right: 100px;
+		margin-top: 50px;
+		margin: auto;
+		text-align: center;
+		padding-bottom: 10px;
+		padding-top: 20px;
+		color: #747474;
+
+
+}
+
+.wrongGuess {
+		font-family: helvetica;
+		font-size: 25pt;
+		margin-right: 100px;
+		margin-top: 50px;
+		margin: auto;
+		text-align: center;
+		padding-bottom: 10px;
+		padding-top: 20px;
+		color: #747474;
+
+}
+
+.numberOfGuesses {
+		font-family: helvetica;
+		font-size: 25pt;
+		margin-top: 50px;
+		margin: auto;
+		text-align: center;
+		padding-bottom: 10px;
+		padding-top: 20px;
+		color: #747474;
+
+}
+
+.Label1 {
+		font-family: helvetica;
+		font-size: 12px;
+		padding-top: 4px;
+		margin-top: 10px;
+		border-top: 1px solid #e0e0e0;
+		width: 140px;
+		margin: auto;
+		text-align: center;
+}
+
+button {
+	font-size: 10pt;
+	font-family: helvetica;
+	padding: 14px;
+	background-color: black;
+	color: white;
+	margin: auto;
+	text-align: center;
+	margin-top: 44px;
+}
+
+
+
